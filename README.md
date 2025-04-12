@@ -51,6 +51,11 @@ To create a fully interactive **Power BI Dashboard** with business-friendly KPIs
 
 ---
 
+## 📷 Dashboard Preview
+
+![Screenshot 2025-04-12 160100](https://github.com/user-attachments/assets/15e4c840-e705-47d0-89cf-63222c52541a)
+
+
 ## 📬 Let’s Connect!
 
 If you liked this project or have any feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha//) or check out my other projects on GitHub!
