@@ -17,19 +17,18 @@ To create a fully interactive **Power BI Dashboard** with business-friendly KPIs
 ## 📊 Dashboard Highlights
 
 ### 🔑 Key KPIs:
-- Total Final Revenue
+- Total Refunded Items
 - Total Refund Amount
-- Total Sales Tax Collected
-- Net Revenue
-- Refunded Item Count (Cleaned)
+- Total Transactions
+- Total Revenue
+  Overall Revenue
 - Total Quantity Sold
 
 ### 📈 Visualizations:
-- Final Revenue vs Refund by Product Category
-- Count of Products Sold by Final Revenue
-- Refund % by Category (Stacked Column Chart)
 - Revenue Trends over Time (Line Chart)
-- Top N Categories by Revenue (Dynamic)
+- Top 10 products by Revenue (Dynamic)
+- Refunded Trend over Time (Line Chart)
+- Revenue & Refund camparison by category 
 - Slicers for Category, Version, and Date Range
 - Clean, user-friendly filters section
 
