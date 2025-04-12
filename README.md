@@ -37,7 +37,7 @@ To create a fully interactive **Power BI Dashboard** with business-friendly KPIs
 
 ## 📁 Dataset Overview
 
-- **Source:** [Kaggle - Product Sales and Returns Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+- **Source:** [Kaggle - Product Sales and Returns Dataset](https://www.kaggle.com/datasets/yaminh/product-sales-and-returns-dataset)
 - **Total Records (after cleaning):** 70,051
 - **Key Fields:** Item Name, Category, Version, Final Revenue, Refunds, Price Reductions, Purchased/Refunded Item Counts, Sales Tax
 
@@ -52,15 +52,7 @@ To create a fully interactive **Power BI Dashboard** with business-friendly KPIs
 
 ---
 
-
-## 🙌 Credits
-
-- Dataset by [Kaggle Contributor](https://www.kaggle.com/datasets/vijayuv/onlineretail)
-- Designed and Developed by **Mohammad Khaja Pasha** as part of internship deliverables
-
----
-
 ## 📬 Let’s Connect!
 
-If you liked this project or have any feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out my other projects on GitHub!
+If you liked this project or have any feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha//) or check out my other projects on GitHub!
 
